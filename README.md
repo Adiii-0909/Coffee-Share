@@ -2,8 +2,6 @@
 
 Peer-to-peer file sharing in your browser. Encrypted direct transfer, password protection, one-time links, and live chat.
 
-![CoffeeShare](public/images/share-card.png)
-
 ## What is CoffeeShare?
 
 CoffeeShare is an open-source, purely peer-to-peer file transfer tool built with Next.js and WebRTC. It allows you to share files of any size directly between two devices without ever staging or storing your files on an intermediary server.
@@ -28,7 +26,7 @@ Your files. Your connection. We stay out of it.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/CoffeeShare.git
+   git clone https://github.com/Adiii-0909/Coffee-Share.git
    cd CoffeeShare
    ```
 
