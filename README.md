@@ -40,8 +40,6 @@ Your files. Your connection. We stay out of it.
    npm run dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
 ## 🛠️ Built With
 - **[Next.js 15](https://nextjs.org/)** - React Framework
 - **[PeerJS](https://peerjs.com/)** - WebRTC wrapper for P2P connections
