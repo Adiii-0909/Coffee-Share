@@ -4,7 +4,7 @@
   "description": "Free peer-to-peer file transfers in your browser — powered by WebRTC.",
   "author": "ShubhamKumarSahu-svg",
   "license": "BSD-3-Clause",
-
+  "homepage": "https://github.com/ShubhamKumarSahu-svg/CoffeeShare",
   "scripts": {
     "dev": "next",
     "build": "prisma generate && next build",
@@ -19,7 +19,13 @@
     "test:watch": "vitest",
     "test:e2e": "playwright test"
   },
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShubhamKumarSahu-svg/CoffeeShare.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShubhamKumarSahu-svg/CoffeeShare/issues"
+  },
   "dependencies": {
     "@prisma/client": "^6.19.3",
     "@tailwindcss/postcss": "^4.1.11",
